@@ -1,0 +1,363 @@
+#0 : Ashe,Brand,Kennen,Lissandra,Varus - 6528
+#1 : Gnar,Kennen,Lucian,Nidalee,Tristana - 6498
+#2 : Gnar,Graves,Kennen,Nidalee,Tristana - 6480
+#3 : Elise,Gnar,Nidalee,Varus,Zed - 6120
+#4 : Braum,Nidalee,Volibear,Warwick,Zed - 6069
+#5 : Lissandra,Nidalee,Volibear,Warwick,Zed - 6069
+#6 : Gangplank,Gnar,Kennen,Nidalee,Tristana - 5832
+#7 : Aatrox,Elise,Gnar,Nidalee,Zed - 5814
+#8 : Akali,Braum,Nidalee,Volibear,Warwick - 5814
+#9 : Akali,Elise,Gnar,Nidalee,Varus - 5814
+#10 : Akali,Lissandra,Nidalee,Volibear,Warwick - 5814
+#11 : Brand,Elise,Gnar,Nidalee,Zed - 5814
+#12 : Elise,Evelynn,Gnar,Nidalee,Zed - 5814
+#13 : Elise,Gnar,Kennen,Nidalee,Varus - 5814
+#14 : Elise,Gnar,Morgana,Nidalee,Zed - 5814
+#15 : Gnar,Kennen,Lucian,Tristana,Warwick - 5814
+#16 : Nidalee,Sejuani,Volibear,Warwick,Zed - 5814
+#17 : Ashe,Nidalee,Volibear,Warwick,Zed - 5780
+#18 : Brand,Braum,Kennen,Lissandra,Varus - 5780
+#19 : Brand,Elise,Kennen,Lissandra,Volibear - 5780
+#20 : Braum,Kennen,Nidalee,Volibear,Warwick - 5780
+#21 : Elise,Gnar,Nidalee,Shen,Varus - 5780
+#22 : Kennen,Lissandra,Nidalee,Volibear,Warwick - 5780
+#23 : Ashe,Elise,Varus,Volibear,Zed - 5776
+#24 : Brand,Braum,Elise,Kennen,Lissandra - 5760
+#25 : Brand,Kennen,Lissandra,Varus,Volibear - 5760
+#26 : Elise,Gnar,Kennen,Nidalee,Tristana - 5760
+#27 : Evelynn,Pyke,Varus,Vayne,Zed - 5760
+#28 : Gnar,Graves,Kennen,Tristana,Warwick - 5760
+#29 : Braum,Nidalee,Shen,Volibear,Warwick - 5712
+#30 : Elise,Gnar,Nidalee,Varus,Vayne - 5712
+#31 : Lissandra,Nidalee,Shen,Volibear,Warwick - 5712
+#32 : Ashe,Braum,Elise,Varus,Zed - 5700
+#33 : Ashe,Elise,Lissandra,Varus,Zed - 5700
+#34 : Evelynn,Kha'Zix,Varus,Vayne,Zed - 5670
+#35 : Aatrox,Elise,Gnar,Kennen,Nidalee - 5508
+#36 : Akali,Ashe,Nidalee,Volibear,Warwick - 5508
+#37 : Akali,Evelynn,Pyke,Varus,Vayne - 5508
+#38 : Akali,Evelynn,Varus,Vayne,Zed - 5508
+#39 : Ashe,Evelynn,Pyke,Varus,Zed - 5508
+#40 : Brand,Elise,Gnar,Nidalee,Shen - 5508
+#41 : Braum,Gnar,Volibear,Warwick,Zed - 5508
+#42 : Elise,Evelynn,Gnar,Kennen,Nidalee - 5508
+#43 : Elise,Gnar,Kennen,Morgana,Nidalee - 5508
+#44 : Gnar,Lissandra,Volibear,Warwick,Zed - 5508
+#45 : Kennen,Nidalee,Sejuani,Volibear,Warwick - 5508
+#46 : Aatrox,Akali,Elise,Gnar,Nidalee - 5491
+#47 : Aatrox,Ashe,Varus,Volibear,Zed - 5491
+#48 : Aatrox,Elise,Gnar,Nidalee,Shen - 5491
+#49 : Akali,Ashe,Elise,Varus,Volibear - 5491
+#50 : Akali,Elise,Evelynn,Gnar,Nidalee - 5491
+#51 : Akali,Elise,Gnar,Morgana,Nidalee - 5491
+#52 : Akali,Nidalee,Sejuani,Volibear,Warwick - 5491
+#53 : Ashe,Brand,Braum,Varus,Zed - 5491
+#54 : Ashe,Brand,Lissandra,Varus,Zed - 5491
+#55 : Ashe,Elise,Gnar,Nidalee,Varus - 5491
+#56 : Ashe,Evelynn,Varus,Volibear,Zed - 5491
+#57 : Ashe,Kennen,Nidalee,Volibear,Warwick - 5491
+#58 : Ashe,Morgana,Varus,Volibear,Zed - 5491
+#59 : Brand,Elise,Gnar,Kennen,Nidalee - 5491
+#60 : Elise,Evelynn,Gnar,Nidalee,Shen - 5491
+#61 : Elise,Gnar,Morgana,Nidalee,Shen - 5491
+#62 : Nidalee,Sejuani,Shen,Volibear,Warwick - 5491
+#63 : Aatrox,Ashe,Braum,Varus,Zed - 5472
+#64 : Aatrox,Ashe,Lissandra,Varus,Zed - 5472
+#65 : Akali,Ashe,Braum,Elise,Varus - 5472
+#66 : Akali,Ashe,Elise,Lissandra,Varus - 5472
+#67 : Akali,Evelynn,Kha'Zix,Varus,Vayne - 5472
+#68 : Ashe,Brand,Varus,Volibear,Zed - 5472
+#69 : Ashe,Braum,Evelynn,Varus,Zed - 5472
+#70 : Ashe,Braum,Morgana,Varus,Zed - 5472
+#71 : Ashe,Elise,Kennen,Varus,Volibear - 5472
+#72 : Ashe,Elise,Sejuani,Varus,Zed - 5472
+#73 : Ashe,Evelynn,Kha'Zix,Varus,Zed - 5472
+#74 : Ashe,Evelynn,Lissandra,Varus,Zed - 5472
+#75 : Ashe,Lissandra,Morgana,Varus,Zed - 5472
+#76 : Brand,Kennen,Lissandra,Varus,Vayne - 5472
+#77 : Elise,Gnar,Kennen,Lulu,Nidalee - 5472
+#78 : Evelynn,Katarina,Varus,Vayne,Zed - 5472
+#79 : Evelynn,Nidalee,Rengar,Varus,Zed - 5472
+#80 : Garen,Gnar,Kennen,Nidalee,Poppy - 5472
+#81 : Gnar,Kennen,Nidalee,Shyvana,Tristana - 5472
+#82 : Aatrox,Brand,Braum,Kennen,Lissandra - 5440
+#83 : Akali,Brand,Elise,Gnar,Nidalee - 5440
+#84 : Ashe,Brand,Elise,Kennen,Lissandra - 5440
+#85 : Ashe,Nidalee,Shen,Volibear,Warwick - 5440
+#86 : Ashe,Nidalee,Varus,Volibear,Warwick - 5440
+#87 : Brand,Braum,Evelynn,Kennen,Lissandra - 5440
+#88 : Brand,Braum,Kennen,Lissandra,Morgana - 5440
+#89 : Brand,Elise,Kennen,Lissandra,Sejuani - 5440
+#90 : Garen,Kennen,Lucian,Poppy,Tristana - 5440
+#91 : Garen,Nidalee,Sejuani,Volibear,Warwick - 5440
+#92 : Ashe,Braum,Elise,Kennen,Varus - 5415
+#93 : Ashe,Elise,Kennen,Lissandra,Varus - 5415
+#94 : Ashe,Elise,Shen,Varus,Volibear - 5415
+#95 : Aatrox,Brand,Kennen,Lissandra,Volibear - 5400
+#96 : Brand,Evelynn,Kennen,Lissandra,Volibear - 5400
+#97 : Brand,Kennen,Lissandra,Morgana,Volibear - 5400
+#98 : Brand,Kennen,Lissandra,Sejuani,Varus - 5400
+#99 : Elise,Evelynn,Nidalee,Rengar,Zed - 5400
+#100 : Ashe,Nidalee,Vayne,Volibear,Warwick - 5355
+#101 : Darius,Garen,Katarina,Pyke,Zed - 5355
+#102 : Garen,Graves,Kennen,Poppy,Tristana - 5355
+#103 : Ashe,Braum,Elise,Shen,Varus - 5320
+#104 : Ashe,Elise,Lissandra,Shen,Varus - 5320
+#105 : Gnar,Lucian,Nidalee,Tristana,Zed - 5320
+#106 : Gnar,Graves,Nidalee,Tristana,Zed - 5292
+#107 : Darius,Garen,Katarina,Kha'Zix,Zed - 5280
+#108 : Kha'Zix,Lucian,Pyke,Tristana,Zed - 5236
+#109 : Akali,Ashe,Evelynn,Kha'Zix,Varus - 5202
+#110 : Akali,Evelynn,Katarina,Varus,Vayne - 5202
+#111 : Akali,Evelynn,Nidalee,Rengar,Varus - 5202
+#112 : Ashe,Evelynn,Katarina,Varus,Zed - 5202
+#113 : Ashe,Garen,Sejuani,Varus,Zed - 5202
+#114 : Ashe,Gnar,Volibear,Warwick,Zed - 5202
+#115 : Blitzcrank,Garen,Sejuani,Volibear,Zed - 5202
+#116 : Brand,Evelynn,Nidalee,Rengar,Zed - 5202
+#117 : Brand,Kennen,Lissandra,Volibear,Warwick - 5202
+#118 : Braum,Gnar,Kennen,Volibear,Warwick - 5202
+#119 : Braum,Gnar,Shen,Volibear,Warwick - 5202
+#120 : Elise,Gnar,Kindred,Nidalee,Varus - 5202
+#121 : Evelynn,Kindred,Pyke,Varus,Zed - 5202
+#122 : Gnar,Kennen,Lissandra,Volibear,Warwick - 5202
+#123 : Gnar,Kennen,Lucian,Rengar,Tristana - 5202
+#124 : Gnar,Lissandra,Shen,Volibear,Warwick - 5202
+#125 : Gnar,Kha'Zix,Nidalee,Pyke,Zed - 5200
+#126 : Fiora,Gangplank,Garen,Lucian,Shen - 5187
+#127 : Aatrox,Evelynn,Nidalee,Rengar,Zed - 5184
+#128 : Ahri,Gnar,Kennen,Lucian,Tristana - 5184
+#129 : Akali,Ashe,Evelynn,Pyke,Varus - 5184
+#130 : Akali,Ashe,Evelynn,Varus,Zed - 5184
+#131 : Akali,Elise,Evelynn,Nidalee,Rengar - 5184
+#132 : Ashe,Blitzcrank,Varus,Volibear,Zed - 5184
+#133 : Brand,Garen,Kennen,Lissandra,Sejuani - 5184
+#134 : Darius,Gnar,Kennen,Nidalee,Poppy - 5184
+#135 : Elise,Gnar,Kennen,Nidalee,Poppy - 5184
+#136 : Evelynn,Kha'Zix,Kindred,Varus,Zed - 5184
+#137 : Evelynn,Morgana,Nidalee,Rengar,Zed - 5184
+#138 : Gangplank,Gnar,Kennen,Tristana,Warwick - 5184
+#139 : Gnar,Graves,Kennen,Rengar,Tristana - 5184
+#140 : Gnar,Kennen,Tristana,Volibear,Warwick - 5184
+#141 : Fiora,Garen,Lucian,Tristana,Zed - 5175
+#142 : Garen,Lucian,Tristana,Vayne,Zed - 5175
+#143 : Aatrox,Akali,Ashe,Braum,Varus - 5168
+#144 : Aatrox,Akali,Ashe,Lissandra,Varus - 5168
+#145 : Aatrox,Ashe,Braum,Kennen,Varus - 5168
+#146 : Aatrox,Ashe,Kennen,Lissandra,Varus - 5168
+#147 : Aatrox,Ashe,Kennen,Varus,Volibear - 5168
+#148 : Aatrox,Ashe,Sejuani,Varus,Zed - 5168
+#149 : Aatrox,Ashe,Shen,Varus,Volibear - 5168
+#150 : Akali,Ashe,Braum,Evelynn,Varus - 5168
+#151 : Akali,Ashe,Braum,Morgana,Varus - 5168
+#152 : Akali,Ashe,Elise,Sejuani,Varus - 5168
+#153 : Akali,Ashe,Evelynn,Lissandra,Varus - 5168
+#154 : Akali,Ashe,Lissandra,Morgana,Varus - 5168
+#155 : Akali,Braum,Gnar,Volibear,Warwick - 5168
+#156 : Akali,Gnar,Lissandra,Volibear,Warwick - 5168
+#157 : Ashe,Brand,Braum,Kennen,Varus - 5168
+#158 : Ashe,Brand,Braum,Shen,Varus - 5168
+#159 : Ashe,Brand,Kennen,Lissandra,Vayne - 5168
+#160 : Ashe,Brand,Lissandra,Shen,Varus - 5168
+#161 : Ashe,Brand,Shen,Varus,Volibear - 5168
+#162 : Ashe,Braum,Evelynn,Kennen,Varus - 5168
+#163 : Ashe,Braum,Kennen,Morgana,Varus - 5168
+#164 : Ashe,Elise,Kennen,Sejuani,Varus - 5168
+#165 : Ashe,Evelynn,Kennen,Lissandra,Varus - 5168
+#166 : Ashe,Evelynn,Kennen,Varus,Volibear - 5168
+#167 : Ashe,Evelynn,Sejuani,Varus,Zed - 5168
+#168 : Ashe,Evelynn,Shen,Varus,Volibear - 5168
+#169 : Ashe,Garen,Sejuani,Vayne,Zed - 5168
+#170 : Ashe,Kennen,Lissandra,Morgana,Varus - 5168
+#171 : Ashe,Kennen,Morgana,Varus,Volibear - 5168
+#172 : Ashe,Morgana,Sejuani,Varus,Zed - 5168
+#173 : Ashe,Morgana,Shen,Varus,Volibear - 5168
+#174 : Ashe,Varus,Volibear,Warwick,Zed - 5168
+#175 : Blitzcrank,Brand,Kennen,Lissandra,Volibear - 5168
+#176 : Blitzcrank,Gnar,Kennen,Tristana,Warwick - 5168
+#177 : Darius,Evelynn,Katarina,Varus,Zed - 5168
+#178 : Garen,Sejuani,Volibear,Warwick,Zed - 5168
+#179 : Gnar,Kennen,Lulu,Nidalee,Shyvana - 5168
+#180 : Gnar,Sejuani,Volibear,Warwick,Zed - 5168
+#181 : Graves,Kha'Zix,Pyke,Tristana,Zed - 5152
+#182 : Lucian,Nidalee,Tristana,Warwick,Zed - 5152
+#183 : Aatrox,Akali,Ashe,Varus,Volibear - 5130
+#184 : Aatrox,Ashe,Braum,Shen,Varus - 5130
+#185 : Aatrox,Ashe,Lissandra,Shen,Varus - 5130
+#186 : Ahri,Gnar,Graves,Kennen,Tristana - 5130
+#187 : Akali,Ashe,Brand,Braum,Varus - 5130
+#188 : Akali,Ashe,Brand,Lissandra,Varus - 5130
+#189 : Akali,Ashe,Evelynn,Varus,Volibear - 5130
+#190 : Akali,Ashe,Morgana,Varus,Volibear - 5130
+#191 : Akali,Darius,Garen,Katarina,Pyke - 5130
+#192 : Akali,Darius,Garen,Katarina,Zed - 5130
+#193 : Ashe,Blitzcrank,Vayne,Volibear,Zed - 5130
+#194 : Ashe,Brand,Kennen,Varus,Volibear - 5130
+#195 : Ashe,Brand,Sejuani,Varus,Zed - 5130
+#196 : Ashe,Braum,Evelynn,Shen,Varus - 5130
+#197 : Ashe,Braum,Morgana,Shen,Varus - 5130
+#198 : Ashe,Elise,Garen,Sejuani,Varus - 5130
+#199 : Ashe,Elise,Sejuani,Shen,Varus - 5130
+#200 : Ashe,Evelynn,Lissandra,Shen,Varus - 5130
+#201 : Ashe,Garen,Lucian,Sejuani,Vayne - 5130
+#202 : Ashe,Lissandra,Morgana,Shen,Varus - 5130
+#203 : Darius,Katarina,Nidalee,Rengar,Zed - 5120
+#204 : Darius,Nidalee,Sejuani,Volibear,Warwick - 5120
+#205 : Aatrox,Ashe,Brand,Kennen,Lissandra - 5100
+#206 : Akali,Darius,Garen,Katarina,Kha'Zix - 5100
+#207 : Ashe,Brand,Evelynn,Kennen,Lissandra - 5100
+#208 : Ashe,Brand,Kennen,Lissandra,Morgana - 5100
+#209 : Ashe,Vayne,Volibear,Warwick,Zed - 5100
+#210 : Braum,Lucian,Tristana,Volibear,Zed - 5100
+#211 : Darius,Elise,Evelynn,Katarina,Zed - 5100
+#212 : Darius,Kennen,Lucian,Poppy,Tristana - 5100
+#213 : Lissandra,Lucian,Tristana,Volibear,Zed - 5100
+#214 : Kha'Zix,Nidalee,Pyke,Warwick,Zed - 5083
+#215 : Aatrox,Gangplank,Shen,Tristana,Varus - 5054
+#216 : Akali,Ashe,Brand,Varus,Volibear - 5054
+#217 : Akali,Gnar,Graves,Nidalee,Tristana - 5054
+#218 : Akali,Lucian,Pyke,Tristana,Zed - 5054
+#219 : Ashe,Blitzcrank,Elise,Varus,Volibear - 5054
+#220 : Braum,Gnar,Lissandra,Nidalee,Zed - 5054
+#221 : Aatrox,Brand,Kennen,Lissandra,Sejuani - 5040
+#222 : Akali,Fiora,Garen,Lucian,Tristana - 5040
+#223 : Akali,Garen,Lucian,Tristana,Vayne - 5040
+#224 : Akali,Gnar,Lucian,Nidalee,Tristana - 5040
+#225 : Akali,Graves,Pyke,Tristana,Zed - 5040
+#226 : Akali,Kha'Zix,Lucian,Pyke,Tristana - 5040
+#227 : Akali,Kha'Zix,Lucian,Tristana,Zed - 5040
+#228 : Ashe,Elise,Varus,Volibear,Warwick - 5040
+#229 : Ashe,Fiora,Garen,Sejuani,Vayne - 5040
+#230 : Brand,Evelynn,Kennen,Lissandra,Sejuani - 5040
+#231 : Brand,Kennen,Lissandra,Morgana,Sejuani - 5040
+#232 : Braum,Gnar,Nidalee,Volibear,Zed - 5040
+#233 : Braum,Graves,Tristana,Volibear,Zed - 5040
+#234 : Braum,Kha'Zix,Pyke,Volibear,Zed - 5040
+#235 : Braum,Lissandra,Lucian,Tristana,Zed - 5040
+#236 : Evelynn,Nidalee,Pyke,Varus,Zed - 5040
+#237 : Gangplank,Graves,Kha'Zix,Pyke,Zed - 5040
+#238 : Gnar,Graves,Lucian,Nidalee,Zed - 5040
+#239 : Gnar,Lissandra,Nidalee,Volibear,Zed - 5040
+#240 : Gnar,Lucian,Lulu,Nidalee,Tristana - 5040
+#241 : Gnar,Lucian,Nidalee,Shen,Tristana - 5040
+#242 : Graves,Lissandra,Tristana,Volibear,Zed - 5040
+#243 : Graves,Nidalee,Tristana,Warwick,Zed - 5040
+#244 : Katarina,Lucian,Pyke,Tristana,Zed - 5040
+#245 : Kha'Zix,Lissandra,Pyke,Volibear,Zed - 5040
+#246 : Akali,Graves,Kha'Zix,Pyke,Tristana - 4998
+#247 : Akali,Graves,Kha'Zix,Tristana,Zed - 4998
+#248 : Akali,Lucian,Nidalee,Tristana,Warwick - 4998
+#249 : Braum,Kha'Zix,Lissandra,Pyke,Zed - 4998
+#250 : Darius,Graves,Kennen,Poppy,Tristana - 4998
+#251 : Elise,Evelynn,Nidalee,Pyke,Zed - 4998
+#252 : Evelynn,Kha'Zix,Nidalee,Varus,Zed - 4998
+#253 : Gnar,Graves,Lulu,Nidalee,Tristana - 4998
+#254 : Gnar,Graves,Nidalee,Shen,Tristana - 4998
+#255 : Graves,Katarina,Pyke,Tristana,Zed - 4998
+#256 : Katarina,Kha'Zix,Lucian,Tristana,Zed - 4998
+#257 : Kennen,Lucian,Lulu,Nidalee,Tristana - 4998
+#258 : Braum,Graves,Lissandra,Tristana,Zed - 4950
+#259 : Elise,Lucian,Tristana,Varus,Zed - 4950
+#260 : Fiora,Garen,Kennen,Lucian,Tristana - 4950
+#261 : Garen,Kennen,Lucian,Tristana,Vayne - 4950
+#262 : Aatrox,Elise,Gangplank,Shen,Tristana - 4940
+#263 : Akali,Nidalee,Pyke,Warwick,Zed - 4940
+#264 : Garen,Gnar,Kennen,Nidalee,Tristana - 4940
+#265 : Gnar,Katarina,Kha'Zix,Nidalee,Zed - 4940
+#266 : Gnar,Kennen,Kha'Zix,Nidalee,Tristana - 4940
+#267 : Gnar,Kennen,Nidalee,Pyke,Tristana - 4940
+#268 : Gnar,Kennen,Nidalee,Tristana,Zed - 4940
+#269 : Gnar,Lulu,Nidalee,Tristana,Zed - 4940
+#270 : Akali,Graves,Nidalee,Tristana,Warwick - 4928
+#271 : Braum,Lissandra,Nidalee,Warwick,Zed - 4928
+#272 : Elise,Evelynn,Kha'Zix,Nidalee,Zed - 4928
+#273 : Elise,Kha'Zix,Pyke,Varus,Zed - 4928
+#274 : Graves,Katarina,Kha'Zix,Tristana,Zed - 4928
+#275 : Graves,Kennen,Lulu,Nidalee,Tristana - 4928
+#276 : Graves,Kha'Zix,Lucian,Pyke,Zed - 4928
+#277 : Kennen,Lucian,Nidalee,Tristana,Warwick - 4928
+#278 : Aatrox,Fiora,Shen,Varus,Vayne - 4914
+#279 : Akali,Gnar,Kha'Zix,Nidalee,Pyke - 4914
+#280 : Akali,Gnar,Kha'Zix,Nidalee,Zed - 4914
+#281 : Akali,Kha'Zix,Nidalee,Pyke,Warwick - 4914
+#282 : Akali,Kha'Zix,Nidalee,Warwick,Zed - 4914
+#283 : Gnar,Katarina,Nidalee,Pyke,Zed - 4914
+#284 : Katarina,Nidalee,Pyke,Warwick,Zed - 4914
+#285 : Akali,Ashe,Garen,Sejuani,Vayne - 4913
+#286 : Akali,Ashe,Varus,Volibear,Warwick - 4913
+#287 : Akali,Darius,Evelynn,Katarina,Varus - 4913
+#288 : Ashe,Cho'Gath,Vayne,Volibear,Zed - 4913
+#289 : Ashe,Garen,Kennen,Sejuani,Varus - 4913
+#290 : Ashe,Gnar,Shen,Volibear,Warwick - 4913
+#291 : Ashe,Gnar,Varus,Volibear,Warwick - 4913
+#292 : Blitzcrank,Garen,Kennen,Sejuani,Volibear - 4913
+#293 : Brand,Darius,Evelynn,Katarina,Zed - 4913
+#294 : Braum,Kennen,Poppy,Sejuani,Tristana - 4913
+#295 : Draven,Elise,Evelynn,Katarina,Zed - 4913
+#296 : Kennen,Leona,Lucian,Poppy,Tristana - 4913
+#297 : Kennen,Lissandra,Poppy,Sejuani,Tristana - 4913
+#298 : Kennen,Lucian,Poppy,Sejuani,Tristana - 4913
+#299 : Aatrox,Akali,Evelynn,Nidalee,Rengar - 4896
+
+C:\Users\Ben\Desktop\TFT Picker>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
